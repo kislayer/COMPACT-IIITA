@@ -25,11 +25,11 @@ STATICFILES_DIRS = (
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 
-import django_heroku
+# import django_heroku
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get('SITE_KEY')
+SECRET_KEY = '+@q=!wf60#gr2sh8uj_!9d)4(c!md1i(gsgu#10by1cdjn5a@%'
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
@@ -147,4 +147,4 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
 # Activate Django-Heroku.
-django_heroku.settings(locals())
+# django_heroku.settings(locals())

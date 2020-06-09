@@ -19,8 +19,6 @@ from django.utils.timezone import utc
 
 
 def index(request):
-    if request.method == 'POST':
-        print("got it")
     return render(request, 'index.html')
 
 

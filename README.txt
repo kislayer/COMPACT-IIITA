@@ -3,6 +3,8 @@ Compact:
 Compact is a Python based website using the Django framework, this site aims
 to act as a central and common sourse for the Students of IIIT Allahabad.
 
+You can find the Youtube Link to our project demonstration here : https://www.youtube.com/watch?v=-uP4h10tBd4
+
 
 --------------------------------------------------------------------------
 
