@@ -51,7 +51,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'MysqlDemo',		<- whatever the databases youhave
         'USER' : 'root',    		<- If you want root to access the database
-        'PASSWORD' : '',			<- your MySQL password for user root
+        'PASSWORD' : '',		<- your MySQL password for user root
         'HOST' : 'localhost',
         'POST' : '',
     }
@@ -107,9 +107,9 @@ for testing purposes you will need to fill only
 Users table contains all the users that can login into the site,
 you will need to add the LDAP credentials eg,
 
-	USERNAME		EMAILADDRESS				FIRSTNAME		LASTNAME
+      **USERNAME		EMAILADDRESS			FIRSTNAME		LASTNAME**
 	IIT2018179		iit2018179@iiita.ac.in		Mohammed		Aadil
-	RK				rkala@iiita.ac.in			Rahul			Kala
+	RK			rkala@iiita.ac.in		Rahul			Kala
 	.				.							.				.
 	.	 			.							.				.	
 	.				.							.				.
@@ -137,9 +137,9 @@ after you have filled these tables you are done with the settup process
 for any furthur information on how to run the project,
 please contact any of the following:
 
-iit2018176@iiita.ac.in
+**iit2018176@iiita.ac.in
 iit2018178@iiita.ac.in
 iit2018179@iiita.ac.in
-iit2018202@iiita.ac.in
+iit2018202@iiita.ac.in**
 
 
