@@ -105,14 +105,12 @@ For testing purposes you will need to fill only
 3. Teaches
 
 Users table contains all the users that can login into the site, you will need to add the LDAP credentials eg,
-```
-      	USERNAME		EMAILADDRESS			FIRSTNAME		LASTNAME
-	IIT2018179		iit2018179@iiita.ac.in		Mohammed		Aadil
-	RK			rkala@iiita.ac.in		Rahul			Kala
-	.				.			.			.
-	.	 			.			.			.	
-	.				.			.			.
-```
+
+| USERNAME   	| EMAILADDRESS           	| FIRSTNAME 	| LASTNAME 	|
+|------------	|------------------------	|-----------	|----------	|
+| IIT2018179 	| iit2018179@iiita.ac.in 	| Mohammed  	| Aadil    	|
+| RK         	| rkala@iiita.ac.in      	| Rahul     	| Kala     	|
+| ...        	| ...                    	| ...       	| ...      	|
 
 Facultys table contains all the Faculty information,
 you will need to add the CourseID and the ProfID eg,
