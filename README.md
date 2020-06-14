@@ -7,11 +7,7 @@ You can find the Youtube Link to our project demonstration here : [Compact](http
 ## Index:
 
 1. [Installation](#installation)
-	1. Basic Downloads Requirements
-	2. Specific Downloads Requirements
-	3. Django Settup instructions
 2. [Code Execution](#code-execution)
-	1. Usage
 3. [Database Prerequisites](#database-prerequisites)
 4. [Testing](#testing)
 5. [Team Info](#team-info)
