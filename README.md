@@ -1,4 +1,7 @@
-# Compact:
+# COMPACT - IIITA
+
+![Compact](https://user-images.githubusercontent.com/66634743/84601944-ecd50e00-ae94-11ea-9387-abb05e4a5183.png)
+
 
 Compact is a Python based website using the Django framework, this site aims to act as a central and common sourse for the Students of IIIT Allahabad.
 
